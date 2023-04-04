@@ -2,6 +2,7 @@
 # license: GPLv3
 import random
 from gameunit import *
+#задания питон 1 семестр
 
 class Enemy(Attacker):
     pass
